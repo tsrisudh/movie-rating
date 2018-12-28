@@ -10,7 +10,7 @@ docker pull tsrisudh/movie-rating
 Alternatively you can build locally using the Dockerfile provided
 
 ```
-docker build -t movie-rating .
+docker build -t tsrisudh/movie-rating .
 ```
 
 ### Usage
