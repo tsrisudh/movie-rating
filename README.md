@@ -1,4 +1,4 @@
-# moview-rating
+# movie-rating
 Movie-rating is a simple dockerized python application to get Rotten Tomotaoes rating for a given movie using the open source OMDB api http://www.omdbapi.com/.
 
 ### Build
