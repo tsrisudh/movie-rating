@@ -4,7 +4,7 @@ Movie-rating is a simple dockerized python application to get Rotten Tomotaoes r
 ### Build
 You can build using the docker image tsrisudh/movie-rating
 ```
-docker build tsrisudh/movie-rating
+docker pull tsrisudh/movie-rating
 ```
 
 Alternatively you can build locally using the Dockerfile provided
